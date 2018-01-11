@@ -1,0 +1,24 @@
+<employee>
+    <id>901101</id>
+    <name>Rajasekaran</name>
+    <email>raja@gmail.com</email>
+    <phoneno>9578562321</phoneno>
+</employee>
+<employee>
+    <id>901102</id>
+    <name>Shiva</name>
+    <email>shiva@gmail.com</email>
+    <phoneno>9578562322</phoneno>
+</employee>
+<employee>
+    <id>901103</id>
+    <name>bala</name>
+    <email>bala@gmail.com</email>
+    <phoneno>9578562323</phoneno>
+</employee>
+<employee>
+    <id>901104</id>
+    <name>mani</name>
+    <email>mani@gmail.com</email>
+    <phoneno>9578562324</phoneno>
+</employee>
